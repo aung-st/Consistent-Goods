@@ -2,7 +2,7 @@ main {
     color: #F99417;
     display: inline-block;
     }
-       
+
 h1 {
     text-align: left;
     color: #F99417;
@@ -28,10 +28,7 @@ h1 {
 }
 .navbar{
     background-color: #4D4C7D; 
-    display: flex;
-    justify-content: space-between;
 }
-.navbar li {display:inline-block}
 
 .centre {  
     display: flex;
