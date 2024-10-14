@@ -46,7 +46,13 @@ h1 {
     flex-wrap: wrap;
 }
 .search-container {
+    background-color: #363062;
+    padding-bottom: 1rem;
     text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
 }
 
 .search-input {
